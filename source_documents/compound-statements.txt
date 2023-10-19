@@ -1,0 +1,247 @@
+The first great treatises on logic were written by the Greek philosopher Aristotle. They 
+were a collection of rules for deductive reasoning that were intended to serve as a basis 
+for the study of every branch of knowledge. 
+In the seventeenth century, the German philosopher and mathematician Gottfried Leibniz 
+perceived the idea of using symbols to systematize the process of deductive reasoning 
+in much the same way that algebraic notation had defined the process of reasoning about 
+numbers and their relationships. 
+Leibniz’s idea was realized in the nineteenth century by the English mathematicians 
+George Boole and Augustus De Morgan, who founded the modern subject of symbolic 
+logic. With research continuing to the present day, symbolic logic has provided, among 
+other things, the theoretical basis for many areas of computer science such as digital 
+logic circuit design, relational database theory, automata theory and computability, and 
+artificial intelligence.
+MODULE 1 2. LOGIC OF COMPOUND STATEMENTS
+Lesson 1. Logical Form and Logical Equivalence
+To have confidence in the conclusion that you draw from an argument, you must be sure 
+that the premises are acceptable on their own merits or follow from other statements that 
+are known to be true.
+Let us consider the following two arguments. Their content is very different but their 
+logical form is the same. The two arguments are valid in the sense that if their premises 
+are true, then their conclusions must also be true.
+Argument 1: 
+If the program syntax is faulty or if program execution results in division by zero, 
+then the computer will generate an error message. Therefore, if the computer 
+does not generate an error message, then the program syntax is correct and 
+program execution does not result in division by zero.
+Argument 2:
+If x is a real number such that x < −2 or x > 2, then x
+2 > 4. Therefore, if x
+2 ≯ 4, 
+then x ≮ −2 and x ≯ 2.
+To illustrate the logical form of these arguments, we use letters of the alphabet (such as 
+p, q, and r) to represent the component sentences and the expression “not p” to refer to 
+the sentence “It is not the case that p.” Then the common logical form of both the previous 
+arguments is as follows:
+If p or q, then r.
+Therefore, If not r, then not p and not q.
+1.1 Statements
+The rules of logic give precise meaning to mathematical statements. These rules are 
+used to distinguish between valid and invalid mathematical arguments.
+• Definition
+ Argument Form – It is the central concept of deductive logic.
+ Argument – It is a sequence of statements aimed at demonstrating the truth 
+of an assertion.
+ Conclusion – It is the assertion at the end of the sequence.
+ Premises – These are the preceding statements.
+A statement or also called a proposition is a sentence that is true or false but not 
+both.
+A proposition is also labeled to as a declarative sentence.
+Let us consider the following statements, 
+“Five plus two equals seven” and,
+“Five plus two equals six” 
+These are both statements, the first because it is true and the second because it is false. 
+On the other hand, take a look at the sentence below,
+“He is a college student.” 
+The truth or falsity will depend on the reference for the pronoun he. For some values of 
+he the sentence is true; for others it is false. 
+If the sentence were preceded by other sentences that made the pronoun’s reference 
+clear, then the sentence would be a statement but the sentence is neither true nor false, 
+and so it is not a statement.
+This is the same as, “x + y > 0” is not a statement because for some values of x and y the 
+sentence is true, however for others it is false. 
+For instance, if x = 1 and y = 2, the sentence is true but,
+ if x =−1 and y = 0, the sentence is false.
+We use letters to denote propositional variables (or statement variables), that is, variables 
+that represent propositions, just as letters are used to denote numerical variables.
+Conventional letters for propositional variables are p, q, r, and s.
+1.2 Compound Statements
+Many mathematical statements are constructed by combining one or more propositions. 
+The new propositions are called compound propositions. It is formed from existing 
+propositions using logical operators. 
+Symbols that are used to build more complicated logical expressions
+Symbol Meaning
+Given a statement p, the sentence “∼p” is read “not p” or “It is not the case that p” and is 
+called the negation of p. 
+Given another statement q, the sentence “p ∧ q” is read “p and q” and is called the 
+conjunction of p and q. 
+The sentence “p ∨ q” is read “p or q” and is called the disjunction of p and q.
+In expressions wherein the symbol ∼ as well as ∧ or ∨, the order of operations specifies 
+that ∼ is performed first. For instance, ∼p ∧ q = (∼p) ∧ q. 
+In logical expressions, like in ordinary algebraic expressions, the order of operations can 
+be overridden through the use of parentheses. Thus ∼(p ∧ q) represents the negation of 
+the conjunction of p and q. 
+The symbols ∧ and ∨ are considered coequal in order of operation, and an expression 
+such as p ∧ q ∨ r is considered confusing. This expression must be written as either (p ∧
+q) ∨ r or p ∧ (q ∨ r) to have meaning.
+1.3 Examples of Translating from English to Symbols: But and Neither-Nor
+Write each of the following sentences symbolically, letting h = “It is hot” and s = “It is 
+sunny.”
+a. It is not hot but it is sunny.
+Solution: ∼h ∧ s
+b. It is neither hot nor sunny.
+Solution: ∼h ∧∼s
+The notation for inequalities involves And and Or statements. For instance, if x, a, and b 
+are particular real numbers, then
+~ Not
+∧ And
+∨ Or
+p but q means p and q
+neither p nor q means ∼p and ∼q.
+x ≤ a means x < a or x = a
+a ≤ x ≤ b means a ≤ x and x ≤ b.
+1.4 Examples And, Or, and Inequalities
+Suppose x is a particular real number. Let p, q, and r symbolize “0 < x,” “x < 3,” and 
+“x = 3,” respectively. Write the following inequalities symbolically:
+a. x ≤ 3 b. 0 < x < 3 c. 0 < x ≤ 3
+Solution: a. q ∨ r b. p ∧ q c. p ∧ (q ∨ r)
+In the previous lessons, we made compound sentences out of component statements 
+and the terms not, and, and or. If such sentences are to be statements, however, they 
+must have well-defined truth values—they must be either true or false. We now define 
+such compound sentences as statements by specifying their truth values in terms of the 
+statements that compose them.
+2.1 Negation Operator
+Lesson 2. Truth Tables 
+The following is a truth table for the negation of the proposition p.
+This table has a row for each of the two possible truth values of the proposition p. Each 
+row shows the truth value of ~p corresponding to the truth value of p for this row. 
+p ∼p
+T F
+F T
+Truth table for the negation of a proposition
+The negation of a proposition can also be considered as the result of the operation 
+negation operator on a proposition.
+2.2 Logical Operators
+Connectives are logical operators that are used to form new propositions from two or 
+more existing propositions.
+2.3 Conjunction
+Let us take a look at the sentence “It is hot and it is sunny”. It is understood to be true 
+when both conditions, being hot and being sunny, are satisfied. If it is hot but not sunny, 
+or sunny but not hot, or neither hot nor sunny, the sentence is understood to be false. 
+The formal definition of truth values for an And statement agrees with this general 
+understanding.
+The truth values for conjunction can also be summarized in a truth table. The table is 
+obtained by considering the four possible combinations of truth values for p and q. Each 
+combination is displayed in one row of the table; the corresponding truth value for the 
+whole statement is placed in the right-most column of that row. Note that the only row 
+containing a T is the first one since the only way for an and statement to be true is for 
+both component statements to be true.
+2.4 Disjunction
+Statements of the form “p or q”—intuitive logic offers two alternative interpretations. In 
+ordinary language or is sometimes used in an exclusive sense (p or q but not both) and 
+sometimes in an inclusive sense (p or q or both). 
+Let us take a look at this example;
+A waiter who says you may have “coffee, tea, or milk” uses the word or in an exclusive 
+sense: 
+On the other hand, a waiter who offers “cream or sugar” uses the word or in an inclusive 
+sense: You are entitled to both cream and sugar if you wish to have them.
+Mathematicians and logicians avoid possible ambiguity about the meaning of the word or 
+by understanding it to mean the inclusive “and/or.” 
+The symbol ∨ comes from the Latin word vel, which means or in its inclusive sense. 
+2.5 Exclusive Or
+When or is used in its exclusive sense, the statement “p or q” means “p or q but not both” 
+or “p or q and not both p and q,” which translates into symbols as (p ∨ q) ∧∼(p ∧ q). This 
+is sometimes abbreviated p ⊕ q or p XOR q.
+Here is another way of expressing the Truth Table for Exclusive Or: (p ∨ q) ∧ ∼(p ∧ q)
+p q p ∨ q p ∧ q ∼(p ∧ q) (p ∨ q)∧ ∼(p ∧ q)
+T T T T F F
+When you make a logical inference or deduction, you reason from a hypothesis to a 
+conclusion. Your aim is to be able to say, “If such and such is known, then something or 
+other must be the case.”
+Let p and q be statements. A sentence of the form “If p then q” is denoted symbolically 
+by “p → q”; p is called the hypothesis and q is called the conclusion. For instance, 
+consider the following statement:
+If 4,686 is divisible by 6, then 4,686 is divisible by 3
+hypothesis conclusion
+Such a sentence is called conditional because the truth of statement q is conditioned on 
+the truth of statement p.
+The notation p → q indicates that → is a connective, like ∧ or ∨, that can be used to join 
+statements to create new statements. To define p → q as a statement, therefore, we must 
+specify the truth values for p → q as we specified truth values for p ∧ q and for p ∨ q. 
+Consider an example. Suppose you go to interview for a job at a store and the owner of 
+the store makes you the following promise:
+If you show up for work Monday morning, then you will get the job.
+Under what circumstances are you justified in saying the owner spoke falsely? That is, 
+under what circumstances is the above sentence false? The answer is: You do show up 
+for work Monday morning and you do not get the job.
+After all, the owner’s promise only says you will get the job if a certain condition (showing 
+up for work Monday morning) is met; it says nothing about what will happen if the 
+condition is not met. So if the condition is not met, you cannot in fairness say the promise 
+is false regardless of whether or not you get the job.
+T F T F T T
+F T T F T T
+F F F F T F
+Lesson 3. Conditional Statements
+The above example was intended to convince you that the only combination of 
+circumstances in which you would call a conditional sentence false occurs when the 
+hypothesis is true and the conclusion is false. In all other cases, you would not call the 
+sentence false.
+3.1 Negation of a Conditional Statement
+By definition, p → q is false if, and only if, its hypothesis, p, is true and its conclusion, q, 
+is false. It follows that
+The negation of “if p then q” is logically equivalent to “p and not q”
+This can be restated symbolically as follows:
+∼(p → q) ≡ p ∧∼q
+Let us take a look at the following examples:
+a. If my car is in the repair shop, then I cannot get to class.
+Solution: My car is in the repair shop and I can get to class.
+b. If Sara lives in Athens, then she lives in Greece.
+Solution: Sara lives in Athens and she does not live in Greece.
+3.2 Converse, Contrapositive and Inverse of a Conditional Statement
+We can form some new conditional statements starting with a conditional statement 
+p → q. In particular, there are three related conditional statements that occur so often that 
+they have special names.
+1. The proposition q → p is called the converse of p → q.
+2. The contrapositive of the form p → q is the proposition ~q → ~p.
+3. The proposition ~p → ~q is called the inverse of p → q.
+We will see that of these three conditional statements formed from p → q, only the 
+contrapositive always has the same truth value as p → q.
+Note that the contrapositive ~q → ~p is FALSE only when ~p is true, that is, only when p 
+is true and q is false.
+When p is true and q is false, the conditional statement p → q is FALSE but the converse 
+and inverse are both TRUE.
+When two conditional statements have the same truth value we call them equivalent. 
+Hence, a conditional statement and its contrapositive are equivalent.
+3.3 Examples of Writing the Contrapositive
+Write each of the following statements in its equivalent contrapositive form:
+a. If Howard can swim across the lake, then Howard can swim to the 
+island.
+Solution: If Howard cannot swim to the island, then Howard cannot swim across 
+the lake.
+b. If today is Easter, then tomorrow is Monday.
+Solution: If tomorrow is not Monday, then today is not Easter.
+When you are trying to solve certain problems, you may find that the contrapositive form 
+of a conditional statement is easier to work with than the original statement. Replacing a 
+statement by its contrapositive may give the extra push that helps you over the top in your 
+search for a solution.
+3.4 Examples of Writing the Converse and Inverse
+Write the converse and inverse of each of the following statements:
+a. If Howard can swim across the lake, then Howard can swim to the 
+island.
+Solution: Converse: If Howard can swim to the island, then Howard can swim
+ across the lake.
+ Inverse: If Howard cannot swim across the lake, then Howard cannot 
+swim to the island.
+b. If today is Easter, then tomorrow is Monday.
+Solution: Converse: If tomorrow is Monday, then today is Easter.
+Inverse: If today is not Easter, then tomorrow is not Monday.
+3.5 Biconditionals
+1. A conditional statement and its converse are not logically equivalent.
+2. A conditional statement and its inverse are not logically equivalent
+3. The converse and the inverse of a conditional statement are logically 
+equivalent to each other.
+Let p and q be propositions. The biconditional statement p ↔ q is the proposition “p if and 
+only if q”.
+The biconditional statement p ↔ q is TRUE when p and q have the same truth values 
+and FALSE otherwise.
+Biconditional statements are also called bi-implications.

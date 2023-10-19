@@ -1,0 +1,662 @@
+Republic of the Philippines 
+LEYTE NORMAL UNIVERSITY
+Paterno St., Tacloban City 
+Outcomes-Based Syllabus 
+1
+st Sem., SY: 2017-2018 
+PART 1 VISION 
+A leading university of education and diverse disciplines attuned to local and global development needs. 
+MISSION 
+To produce top performing professionals equipped to engage on knowledge and technology production so necessary to develop a sustainable 
+society. 
+PART II - Preliminaries 
+COURSE CODE : IT_103 & IT_103 L 
+COURSE TITLE : Computer Programming 1 
+COURSE CREDIT : 3.0 
+PRE-REQUISITE : NONE 
+COURSE DESCRIPTION : Computer Programming I is a major course in information technology program, at the same time the course is 
+the first computer programming language using Java programming to be learned by the student. Java is a 
+general-purpose computer-programming language that is concurrent, class-based, object oriented, and 
+ specifically design to have as few implementation dependencies as possible. 
+2
+Institutional 
+Outcomes
+College Outcomes 
+The College of Arts and 
+Science endeavors to:
+Program Outcomes 
+The Information Technology and 
+Computer Education Unit 
+endeavor students to:
+COURSE Outcome 
+Critical thinkers Produce graduates who think 
+and decide logically and 
+creatively in the various 
+programs 
+Provide solutions and take them 
+into account in the selection, 
+creation, evaluation and 
+administration of computerbased systems. 
+Students who can analyze and 
+implement situational problems 
+and solution. 
+Effective 
+Communicators 
+Turnout graduates who can 
+communicate effectively in 
+both verbal and non-verbal 
+forms 
+Communicate effectively with 
+the computing community and 
+with society at large about 
+complex computing activities 
+through logical writing, 
+presentations, and clear 
+instructions 
+Students who can interact with 
+others during classroom 
+participation activities. 
+ICT Competent Develop graduates who can 
+use or generate appropriate 
+ICTs 
+efficiently and effectively 
+Design, implement and evaluate 
+computer-based systems, 
+processes, components and 
+programs to meet desired needs 
+and requirements under various 
+constraints. 
+Integrate IT-based solutions into 
+the user-environment effectively. 
+Students who can apply 
+simple design solutions 
+that are usercentered. 
+Professionally 
+competent 
+Produce graduates who can 
+excellently perform and 
+deliver services with 
+professionalism in various 
+Engage in planning self-learning 
+and improving performance as a 
+foundation for continuing 
+professional 
+development 
+Students who can professionally 
+design and develop program. 
+3
+fields in the Arts and 
+Sciences 
+Values-laden 
+leaders 
+Produce graduates with 
+exemplary leadership 
+anchored in the core values 
+of excellence, integrity, and 
+service 
+Function effectively as a 
+member or leader of a 
+development team recognizing 
+the different roles within a 
+team to accomplish a common 
+goal 
+Participate and contribute in the 
+creation of an effective project 
+plan. 
+Students who can work 
+effectively in group in making 
+desirable practical applications 
+or programs. 
+PART III – COURSE PLAN 
+COURSE 
+OUTCOME 
+INTENDED LEARNING 
+OUTCOME 
+CONTENT TIME 
+FRAME 
+TEACHING AND 
+LEARNING 
+EXPERIENCE 
+ASSESSMENT LEARNING 
+RESOURCES 
+LO1: Recite the LNU VGMO 
+LO2: State the class 
+policies and guidelines 
+LO3: Explain the 
+importance of the course 
+content in relation to 
+software development 
+LO4: Apply and appreciate 
+Gender 
+Equality in class
+LNU VMGO 
+Course Syllabi 
+Gender Equality in IT World 
+3 hours • Lecture and 
+Orientation 
+• Group 
+Discussion 
+Recitation Multimedia 
+Projector 
+4
+CO1 
+CO2 
+CO3 
+LO1: Create programs 
+applying elements of a 
+simple java program LO2: 
+Work in pair in designing 
+and developing simple java 
+program 
+Introduction to Java 
+Programming
+• A Simple Java Program 
+• Creating, Compiling, and 
+Executing a Java 
+Program 
+• Displaying Text in an 
+Message 
+Dialog Box 
+• Programming Style and 
+Documentation 
+• Programming Errors 
+7 hours • Fishbowl 
+Activity 
+• Pair Activity 
+Laboratory 
+exercise 
+• Multimedia 
+Projector 
+• Computer 
+CO1 
+CO2 
+LO1: Apply the different 
+elements in programming 
+in java programs LO2: 
+Exchange ideas with peers 
+about the different elements 
+in programming 
+Elementary Programming
+• Reading Input from the 
+Console 
+• Identifiers 
+• Variables 
+• Assignment Statements 
+and Assignment 
+Expressions 
+• Named Constant and 
+Conventions 
+• Numeric Data Types, 
+Operations, and Literals 
+15 hours Think-pairshare 
+Response 
+Cards 
+• Laboratory 
+exercises 
+• Quiz 
+• Multimedia 
+Projector 
+• Computer 
+• Evaluating Expressions 
+and 
+Operator Precedence 
+• Augmented Assignment 
+Operators, Increment and 
+Decrement Operators, 
+Numeric 
+Type Conversions, 
+Character Data Type and 
+5
+Operations, and String 
+Type. 
+• Getting Input from Input 
+Dialogs
+CO1 
+CO2 
+CO3 
+CO5
+LO1: Apply the different 
+selection structures in 
+programming using java 
+programming language 
+LO2: Evaluate the learned 
+algorithm LO3: Design simple 
+process in a program. 
+LO4: Exchange ideas with 
+other peers relative to 
+selection structure 
+Selections
+• Boolean Data Type 
+• If Statements 
+• Two-Way If-else 
+Statements 
+• Nested If and Multi-Way 
+If-else 
+Statements 
+• Logical Operators 
+• Switch Statements 
+• Conditional Expressions 
+• Formatting Console 
+Output 
+• Operator Precedence and 
+Associativity 
+• Confirmation Dialogs 
+• Debugging 
+15 hours Facilitated 
+Synchronous 
+Discussion 
+Think-pair-share 
+Response Cards 
+Laboratory 
+exercises 
+Quiz 
+Multimedia 
+Projector 
+Computer
+CO1 
+CO2 
+CO3 
+CO5 
+LO1: Apply the different 
+Looping structures in 
+programming using java 
+programming language 
+LO2: Evaluate the learned 
+algorithm LO3: Construct 
+complex programs using a 
+combination of looping and 
+selection structures 
+Loops
+• The while Loop 
+• The do-while Loop 
+• The for Loop 
+• Nested Loops 
+• Keywords breaks and 
+continue
+• Controlling a Loop with a 
+Confirmation Dialog
+20 hours Facilitated 
+Synchronous 
+Discussion 
+Think-pair-share 
+Response Cards 
+Laboratory 
+exercises 
+Quiz 
+Multimedia 
+Projector 
+Computer
+6
+LO4: Exchange ideas with 
+other peers relative to looping 
+structure 
+CO1 
+CO2 
+CO5
+LO1: Apply methods, scope 
+variables, and math class in 
+programming using java 
+programming language 
+LO2: Evaluate the learned 
+algorithm 
+Methods
+• Defining and Calling a 
+Method 
+• void Method 
+• Passing Parameters by 
+Values 
+• Overloading Methods 
+• The Scope of Variables 
+• The Math Class 
+• Method Abstraction and 
+Stepwise Refinement 
+15 hours Fishbowl Activity 
+Group Activity 
+Response Cards 
+Laboratory 
+exercise 
+Multimedia 
+Projector 
+Computer
+CO1 
+CO2 
+CO5 
+LO1: Apply arrays in 
+programming using java 
+programming language LO2: 
+Evaluate the learned 
+algorithm LO3: Construct 
+complex programs using a 
+arrays 
+LO4: Exchange ideas with 
+other peers relative to looping 
+structure 
+Single-Dimensional Arrays
+• Array Basic 
+• Copying Arrays 
+• Passing Arrays to 
+Methods 
+• Returning An Array from 
+a 
+Method 
+• Variable-Length 
+Argument Lists 
+• Searching Arrays 
+• Sorting Arrays 
+• The Arrays Class
+15 hours Fishbowl Activity 
+Group Activity 
+Simulation and 
+Demonstration 
+Activity 
+Laboratory 
+exercise 
+Multimedia 
+Projector 
+Computer
+7
+PART IV GRADING 
+Project 15% 
+Laboratory 20% 
+Quizzes & Recitation* 15% 
+Midterm 20% 
+Finals 30% 
+TOTAL 100% 
+* Recitation includes group and pair activities
+POINTS 1-10 11-15 16-20 21-25 
+Time Spent on Activity Student spent too much 
+time and/or too little time 
+on entire computer lab 
+activity.
+Student spent too much 
+time and/or too little time 
+on parts of computer lab 
+activity.
+Student spent an adequate 
+amount of time on 
+computer lab activity to 
+ensure good results.
+Student spent an 
+adequate amount of 
+time on computer lab 
+activity to ensure the 
+best results.
+____
+Completion of Task Student completed less 
+than 
+1/2 of the computer lab 
+activity by the due date.
+Student completed about 
+1/2 of the computer lab 
+activity by the due date.
+Student completed about 
+80% of the computer lab 
+activity by the due date.
+Student completed all of 
+the computer lab activity 
+by the due date.
+____
+Reasonable output and Information Output and information 
+given are entirely 
+unreasonable throughout 
+the activity.
+Output and information 
+given are unreasonable in 
+some areas of the 
+activity.
+Output and information 
+given are reasonable 
+throughout most of the 
+activity.
+Output and information 
+given are very 
+reasonable 
+throughout all of the 
+activity.
+____
+Neatness, Readability, and Legibility Output and information 
+given are entirely 
+unreadable and illegible 
+throughout the activity.
+Output and information 
+given are unreadable and 
+illegible throughout most 
+of the activity.
+Output and information 
+given are neat, readable, 
+and legible throughout 
+most of the activity.
+Output and information 
+given are very neat, 
+readable, and legible 
+throughout all of the 
+activity.
+____
+Total
+List of References 
+8
+Cameron, S. (2005). Using Computers in History. London: new York: MacMillan/Palgrave 
+Carmano, F. M. (2011). Imagine Java Programming: Concepts and Context. Boston: Prentice Hall 
+Farrel, J. (2006). Java Programming. Australia: Thomson Learning 
+Greanier, T. (2005). Java Foundations: Technology Fundamentals for IT Success. London: Sybex Laing, D. 
+Y. (). Introduction to JAVA Programming. 9th Edition. Pearson Publishing. Boston, USA. 
+Pepito, C. (2009). Introduction to Java 6 Programming. Manila: national Bookstore. 
+Savitch, W. (2012). Java: An Introduction to Problem Solving and Programming. 6th ed. New Jersey: Prentice Hall 
+9
+Table of Contents
+Content ……………………………………………………………………………………………………………………………..
+About the Authors …………………………………………………………………………………………………………….
+Table of Contents ………………………………………………………………………………………………………………
+Chapter 1: Introduction to Java Programming …………………………………………………………………..
+Lesson 1: A Simple Java Program ……………………………………………………………………………………….
+Lesson 2: Creating, Compiling, and Executing ……………………………………………………………………
+Java Program …………………………………………………………………………………………………………………….
+Lesson 3: Displaying Text in a Message Dialog …………………………………………………………………..
+BOX …………………………………………………………………………………………………………………………………..
+Lesson 4: Programming Style and Documentation …………………………………………………………….
+Lesson 5: Programming Errors …………………………………………………………………………………………..
+Chapter 2: Elementary Programming …………………………………………………………………………………
+Lesson 6: Reading Input from Console ……………………………………………………………………………….
+Lesson 7: Identifiers ……………………………………………………………………………………………………….….
+Lesson 8: Variables …………………………………………………………………………………………………………….
+Lesson 9: Assignment Statements and ……………………………………………………………………………….
+Assignment Expressions …………………………………………………………………………………………………….
+Lesson 10: Named Constant and Convention …………………………………………………………………….
+Lesson 11: Numeric Data Types, Operators, and ………………………………………………….…………….
+Literals ……………………………………………………………………………………………………………….……………..
+Lesson 12: Evaluating Expression and Operator ………………………………………………..……………….
+Precedence ……………………………………………………………………………………………………..………………..
+Lesson 13: Augmented Assignment Operators ………………………………………………………………….
+Increment and Decrement, Operators, Numeric ……………………………………………………………….
+Type Conversion, Character Data Types and ……………………………………………………………………..
+Operations, and String Type ………………………………………………………………………………………………
+Lesson 14: Getting Input from Input Dialogs ……………………………………………………………………..
+Chapter 3: Selection Structures ………………………………………………………………………………………….
+Lesson 15: Boolean Data Type ……………………………………………………………………………………………
+Lesson 16: If Statement ……………………………………………………………………………………………………..
+Lesson 17: Two- Way if-else Statements ……………………………………………………………………………
+Lesson 18: Nested if and Multi-Way if-else ………………………………………………………………………..
+Statements ………………………………………………………………………………………………………………………..
+Lesson 19: Logical Operators ……………………………………………………………………………………………..
+Lesson 20: Switch Statements ……………………………………………………………………………………………
+Lesson 21: Conditional Expressions ……………………………………………………………………………………
+Lesson 22: Formatting Console Output ………………………………………………………………………………
+10
+Chapter I: Introduction to Java Programming
+Overview: 
+THE Java programming language is a general-purpose, concurrent, class based, object-oriented 
+language. It is designed to be simple enough that many programmers can achieve fluency in the language. 
+The Java 
+programming language is related to C and C++ but is organized rather differently, with a number of aspects 
+of C and C++ omitted and a few ideas from other languages included. It is intended to be a production 
+language, not a research language, and so, as C. A. R. Hoare suggested in his classic paper on language 
+design, the design has avoided including new and untested features. The Java programming language is 
+strongly and statically typed. This specification clearly distinguishes between the compile-time errors that 
+can and must be detected at compile time, and those that occur at run time. Compile time normally 
+consists of translating programs into a machine-independent byte code representation. Run-time 
+activities include loading and linking of the classes needed to execute a program. optional machine code 
+generation and dynamic optimization of the program, and actual program execution. 
+The Java programming language is a relatively high-level language, in that details of the machine 
+representation are not available through the language. It includes automatic storage management, 
+typically using a garbage collector, to avoid the safety problems of explicit deallocation (as in C's free or 
+C++'s delete). High-performance garbage-collected implementations can have bounded pauses to support 
+systems programming and real-time applications. The language does not include any unsafe constructs, 
+such as array accesses without index checking, since such unsafe constructs would cause a program to 
+behave in an unspecified way. The Java programming language is normally compiled to the bytecode 
+instruction set and binary format defined in The Java Virtual Machine Specification, Java SE 10 Edition, 
+(oracle, n.d.) 
+History of java: 
+James Gosling initiated the Java language project in June 1991 for use in one of his many set-top box 
+projects. The language, initially called Oak after an oak tree that stood outside Gosling's office, also went 
+by the name Green and ended up later being renamed as Java, from a list of random words. 
+Sun released the first public implementation as Java 1.0 in 1995. It promised Write Once, Run Anywhere 
+(WORA), providing no-cost run-times on popular platforms. 
+On 13 November 2006, Sun released much of Java as free and open source software under the terms of 
+the GNU General Public License (GPL). On 
+11
+8 May 2007, Sun finished the process, making all of Java's core code free and open-source, aside from a 
+small portion of code to which Sun did not hold the copyright. (oracle, n.d.) 
+Development tools we will use: 
+To write your Java programs, you will need a text editor. There are even more sophisticated IDES 
+available in the market. But for now, you can consider one of the following: 
+Notepad: On Windows machine, you can use any simple text editor like Notepad 
+(Recommended for this tutorial), TextPad. 
+Netbeans: A Java IDE that is open-source and free, which can be downloaded at 
+http://wwwnetbeans.orafindex.html. 
+Eclipse: A Java IDE developed by the eclipse open-source community and can be downloaded 
+from http://www.eclipse.org/. 
+Expectations: 
+At the end of the chapter, at least 80% of the students should be able to: 
+1. Know how to setup development tools, create simple java program, compile and run a java 
+program, write a java program in many ways 
+2. Know how to create and show simple dialog box, use the JOptionPane Features 
+3. Know how to code in java, and do the Documentation in a right 
+4. Practice proper programming style in java 
+5. Identify types of errors in java
+12
+Topics Covered: 
+Lesson 1: A Simple Java Program 
+In this Page, we will learn how to write the simple program of java. We can write a simple hello java 
+program easily after installing the JDK.
+Requirement for Hello Java Example 
+For executing any java program, you need 
+o The Java SE Development Kit (JDK 7 has been selected in this example) 
+o For Microsoft Windows, Solaris OS, and Linux: Java SE Downloads Index page 
+o For Mac OS X: developer-apple.com 
+o The NetBeans IDE
+o For all platforms: NetBeans IDE Downloads Index page 
+ Creating Your First Application
+Your first application, HelloWorldApp, will simply display the greeting "Hello World!"
+To create this program, you will: 
+Create an IDE project 
+When you create an IDE project, you create an environment in which to build and run your applications. 
+Using IDE projects eliminates configuration issues normally associated with developing on the command 
+line. You can build or run your application by choosing a single menu item within
+the IDE. 
+Add code to the generated source file 
+A source file contains code, written in the Java programming language, that you and other programmers 
+can understand, As part of creating an IDE project, a skeleton source file will be automatically generated. 
+You will then modify the source file to add the 'Hello World!" message. 
+Compile the source file into a -class file 
+The IDE invokes the Java programming language compiler (javac), which takes your source file and 
+translates its text into instructions that the Java virtual machine can understand. The instructions 
+contained within this file are known as bytecodes. 
+13
+Run the program 
+The IDE invokes the Java application launcher tool (java), which uses the Java virtual machine to run your 
+application. 
+Create an IDE Project 
+To create an IDE project: 
+1. Launch the NetBeans IDE. 
+o On Microsoft Windows systems, you can use the NetBeans IDE item in the Start menu, 
+o On Solaris OS and Linux systems, you execute the IDE launcher script by navigating to 
+the IDE's bin directory and typing ./netbeans.
+o On Mac OS X systems, click the NetBeans IDE application icon. 
+2. In the NetBeans IDE, choose File I New Project…
+NetBeans IDE with the File I New Project menu item selected. 
+14
+3. In the New Project wizard, expand the Java category and select Java Application as shown in the 
+following figure: 
+NetBeans IDE, New Project wizard, Choose Project page. 
+1. In the Name and Location page of the wizard, do the following (as shown in the figure below): 
+o In the Project Name field, type Hello World App. 
+o In the Create Main Class fields, 
+type helloworldapp. HelloWorldApp.
+15
+NetBeans IDE, New Project wizard, Name and Location page. 
+5. Click Finish. 
+The project is created and opened in the IDE, You should see the following components: 
+ The Projects window, which contains a tree view of the components of the project, including 
+source files, libraries that your code depends on, and so on. 
+ The Source Editor window with a file called HelloWorldApp.java open. 
+ The Navigator window, which you can use to quickly navigate between elements within the 
+selected class. 
+16
+Add Code to the Generated Source File 
+When you created this project, you left the Create Main Class checkbox selected in the New Project
+wizard. The IDE has therefore created a skeleton class for you. You can add the "Hello World!" message 
+to the skeleton code by replacing the line: 
+// TODO code application logic here 
+with the line: 
+System.out.println''Hello World!"); // Display the string. 
+Optionally, you can replace these four lines of generated code: 
+/**
+ *
+ * @author
+ */
+with these lines: 
+17
+* The HelloWorldApp class implements an application that 
+* simply prints "Hello World!" to standard output. 
+These four lines are a code comment and do not affect how the program runs. Later sections of this 
+tutorial explain the use and format of code comments. 
+Be Careful When You Type (A) (B)
+Note: Type all code, commands, and file names exactly as shown. Both the compiler (javac) and launcher 
+(java) are case-sensitive, so you must capitalize consistently. 
+HelloWorldApp is not the same as helloworldapp.
+Save your changes by choosing File I Save. 
+The file should look something like the following: 
+/*
+* To change this template, choose Tools I Templates 
+* and open the template in the editor. 
+*/
+package helloworldapp; 
+/**
+* The HelloWorldApp class implements an application that 
+* simply prints "Hello World!" to standard output. 
+*/
+public class HelloWorldApp {
+/**
+ *
+ * @param args the command line arguments 
+ */
+public static void main(String[] args) {
+System.out.println("Hello World!"); // Display the string. 
+}
+}
+ Parameters used in first java program 
+Let's see what is the meaning of class, public, static, void, main, String 
+[], System.out.println().
+18
+o Class keyword is used to declare a class in java. 
+ Public keyword is an access modifier which represents visibility, it means it is visible to all. 
+ Static is a keyword, if we declare any method as static, it is known as static method. The core 
+advantage of static method is that there is no need to create object to invoke the static method. 
+The main method is executed by the JVM, so it doesn't require to create object to invoke the main 
+method. So it saves memory. 
+ Void is the- return type of the method, it means it doesn't return any value.
+ Main represents the starting point of the program. 
+ String [] args is used for command line argument. We will learn it later.
+ System.outprintln() is used print statement. We will learn about the internal working of 
+System.out.println statement later. (Simple Java Program, n.d.) 
+19
+Learning Activity 
+1. Write a Java program that will print 'Hello' on the screen and then print your name on a 
+separate line. 
+2. Write a Java program that will display asterisk pattern using your initials: 
+(example: J D C) 
+3. Write a Java program using BufferedReader class that will accept the user's NAME and prompt 
+an output, see example: 
+Enter Your Name: Juan 
+Hello Juan! How are you today? 
+Welcome to Java Programming! 
